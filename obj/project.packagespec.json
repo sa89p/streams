@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\_myself\\my_projects\\console_apps\\Streams\\Streams.csproj",
+    "projectName": "Streams",
+    "projectPath": "D:\\_myself\\my_projects\\console_apps\\Streams\\Streams.csproj",
+    "outputPath": "D:\\_myself\\my_projects\\console_apps\\Streams\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "microsoft.entityframeworkcore.design": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "microsoft.entityframeworkcore.sqlserver": {
+          "target": "Package",
+          "version": "(, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

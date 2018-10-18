@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\saeid\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\saeid\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Streams.-309113834.00" t="ExcludeRecursive" />
+    <e p="D:\_myself\my_projects\console_apps\Streams" t="IncludeRecursive">
+      <e p="Animal.cs" t="Include" />
+      <e p="arg.txt" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Car.cs" t="Include" />
+      <e p="file.txt" t="Include" />
+      <e p="g.txt" t="Include" />
+      <e p="h.txt" t="Include" />
+      <e p="i.txt" t="Include" />
+      <e p="m.txt" t="Include" />
+      <e p="myfile.txt" t="Include" />
+      <e p="newfile.txt" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="Streams.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="saeed.txt" t="Include" />
+      <e p="Streams.csproj" t="IncludeRecursive" />
+      <e p="Streams.sln" t="IncludeFlat" />
+      <e p="test.txt" t="Include" />
+      <e p="text.txt" t="Include" />
+      <e p="writer.txt" t="Include" />
+    </e>
+  </component>
+</project>

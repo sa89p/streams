@@ -1,0 +1,3 @@
+this is a string written to a file
+and now i want to write an integer to file
+34
